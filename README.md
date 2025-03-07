@@ -29,6 +29,7 @@ Grades obtained in each lab: [100, 100, 100, 100, 100, 100, 94, 100, 100]
 **Lab 8:** Simulation: F → Java
 
 
+
 **Lab 11:** vhdl → vhdl: Desugaring & Elaboration
 
 
